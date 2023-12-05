@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution 
 
-![Design preview ](../images/Screenshot.jpg)
+![Design preview ](./images/Screenshot.jpg)
 
 ## My process
 
