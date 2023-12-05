@@ -20,6 +20,6 @@ At this time I want to continue doing challenges and practices based on HTML, CS
 
 ## Author
 
-###Carlos Miguel Puche Moreno
+### Carlos Miguel Puche Moreno
 
 - Frontend Mentor - [CMP2007](https://www.frontendmentor.io/profile/CMP2007)
